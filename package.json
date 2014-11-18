@@ -1,0 +1,9 @@
+{
+  "name": "pastascript",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Tomas Aparicio",
+  "dependencies": {
+    "sweet.js": "^0.7.2"
+  }
+}
